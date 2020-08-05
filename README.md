@@ -1,5 +1,3 @@
-![bg][banner]
-
 ### backend developer at [pontaltech][pontaltech]
 
 👨🏼‍💻 building portfolio  
@@ -10,7 +8,6 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [react]: http://reactjs.org
 [node]: https://nodejs.org/en/
 [instagram]: https://www.instagram.com/charlesagra
