@@ -1,32 +1,18 @@
-[![bg][banner]][website]
+![bg][banner]
 
-### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
+### backend developer at [pontaltech][pontaltech]
 
-👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte] and [tailwind][tailwind]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+👨🏼‍💻 building portfolio  
+🧠 learning [node][node] and [react][react]    
+💜 loving [node][node] and [react][react]  
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
+🏡 is comming... **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[adobe]: https://adobe.com
 [react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy
+[node]: https://nodejs.org/en/
+[instagram]: https://www.instagram.com/charlesagra
+[linkedin]: https://www.linkedin.com/in/charles-agra-1b838a105/
+[pontaltech]: https://www.pontaltech.com.br/
