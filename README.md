@@ -1,4 +1,4 @@
-### backend developer at [pontaltech][pontaltech]
+### backend developer
 
 👨🏼‍💻 building portfolio  
 🧠 learning [node][node] and [react][react]    
